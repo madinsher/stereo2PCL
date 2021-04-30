@@ -1,0 +1,12 @@
+ python stereo_camera_calibration.py \
+    --left_file left_cam.yml \ 
+    --right_file right_cam.yml \
+    --left_prefix left \
+    --right_prefix right \
+    --left_dir ./data/bothImages \
+    --right_dir ./data/bothImages \
+    --image_format jpg \
+    --width 9 \
+    --height 12 \
+    --square_size 0.04 \
+    --save_file ./configs/stereo.yml
