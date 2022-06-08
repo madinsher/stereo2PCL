@@ -1,6 +1,5 @@
 ## Welcome to Stereo2PCL project
 
-You can use the [editor on GitHub](https://github.com/madinsher/stereo2PCL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 Stereo2PCL is python script for pointcloud registration via image from two web camera stereopair.
 
 You can use it on ROS and with machine learning algroithms for object detection and classification.
